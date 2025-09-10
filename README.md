@@ -1,7 +1,5 @@
-# Título do Projeto
-Catálogo dos Expositores
+# Catálogo dos Expositores
 
-## Descrição do Projeto
 Este projeto é um sistema de catálogo digital de expositores, feiras e eventos, desenvolvido para facilitar a divulgação e o acesso a informações sobre empresas, produtos e serviços participantes de eventos do setor agropecuário e industrial. O sistema permite que expositores anunciem seus negócios, que visitantes consultem dados detalhados e que organizadores gerenciem o conteúdo do catálogo de forma prática e eficiente.
 
 ## Funcionalidades Principais
